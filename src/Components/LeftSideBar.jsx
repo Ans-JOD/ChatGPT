@@ -1,7 +1,6 @@
 import chatgptLogo from '../assets/chatgpt.svg';
 import addSign from '../assets/add-30.png';
 import message from '../assets/message.svg';
-import '../app.css';
 import { LeftSideBottomList } from './LeftSideBottomList';
 
 export const LeftSideBar = ({handleQuery}) => {
